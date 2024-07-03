@@ -1,0 +1,89 @@
+<!DOCTYPE html> <!-- By: codeQueen981-->
+<head> <title>Resume</title></head>
+<center><h1>Fill up the Resume</h1> </center>
+<hr> 
+<body > 
+<table border="1" align="center" width="60%" height="100%">
+   
+        <img align="right" width="300px" src=" https://th.bing.com/th/id/R.9d7d51bda3820b9dc81c75a58525d13d?rik=EOKltFy0Pl%2bZug&riu=http%3a%2f%2fwww.daviscos.com%2fwp-content%2fuploads%2f2015%2f07%2fman-holding-resume.jpg&ehk=gyj9WUdJrGPcwAXkeCB%2bLJjMa2g6A6tK4Ht1VUBSmds%3d&risl=&pid=ImgRaw&r=0" alt="img">
+   
+<br>
+Name:  <input type="text"> 
+<br><br>
+
+Mobile No: <input type="number">
+<br><br>
+
+Email Address: <input type="email">
+<br><br>
+
+Female:<input type="checkbox">   Male:<input type="checkbox"> LGBTQ: <input type="checkbox">    
+<br><br>
+
+Date:<input type="week">
+<br><br>
+Time: <input type="time">
+<br> <hr>
+<h2 align="center">Personal Information Form</h2>
+Country: <input type="search">
+<br><br>
+
+Address - City - Town: <input type="search">
+
+<br><br>
+
+Postal/Zip Code: <input type="number">
+<br><br>
+
+Date of Birth: <input type="date">
+<br><br>
+
+Image of Spouse/Partner: <input type="file">
+<br><br>
+
+Citizenship:  Canadian:<input type="checkbox">  American: <input type="checkbox"> Filipino: <input type="checkbox"> Other: <input type="text">
+<br><br>
+
+Religion:  Roman Catholic: <input type="checkbox"> Christian: <input type="checkbox"> Buddhism: <input type="checkbox"> Other: <input type="text"> 
+<br><br>
+
+Occupation: <input type="text">
+
+
+<hr>
+<h3 align="middle">Programming Languages</h3>
+
+
+
+<table border="1" align="center" > <br>
+
+<tr>
+  <th colspan="300">HTML </th>  <th> <input type="checkbox"> </th> <tr> </tr>
+</tr>
+
+<tr >
+    <th colspan="300">CSS </th> <th> <input type="checkbox"> </th>
+</tr>
+
+<tr>
+    <th colspan="300"> JavaScript </th> <th> <input type="checkbox"> </th>
+</tr>
+
+<tr>
+    <th colspan="300">Python </th> <th> <input type="checkbox"> </th>
+</tr>
+</table >
+
+<br>
+<div align="center">
+    <textarea name="" id="" cols="40" rows="5" > What other Programming Languages do you know? Feel free to add your experiences. </textarea>
+<div>
+
+</table>
+
+</body>
+
+<hr>
+
+<center><h4>By: codeQueen981 - lokinlulu2008@gmail.com - 7/3/24 </h4> </center>
+</html>
